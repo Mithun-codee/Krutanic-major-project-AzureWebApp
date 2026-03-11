@@ -1,5 +1,5 @@
 {
-  "name": "mithun-webapp",
+  "name": "azure-webapp",
   "version": "1.0.0",
   "main": "server.js",
   "scripts": {
